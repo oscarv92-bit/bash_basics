@@ -22,5 +22,5 @@ echo "It is currently: $hour o'clock."
 if [ "$hour" -lt 12 ]; then
    echo "Good morning!"
 else
-   echo "It's not morning."
+   echo "It is not morning right now."
 fi
